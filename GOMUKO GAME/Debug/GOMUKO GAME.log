@@ -1,0 +1,4 @@
+﻿  GOMUKO GAME.cpp
+F:\2nd semester\PF\GAME\GOMUKO\GOMUKO GAME\GOMUKO GAME.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\2nd semester\PF\GAME\GOMUKO\GOMUKO GAME\GOMUKO GAME.cpp(252): warning C4715: 'sumwinner': not all control paths return a value
+  GOMUKO GAME.vcxproj -> F:\2nd semester\PF\GAME\GOMUKO\GOMUKO GAME\Debug\GOMUKO GAME.exe
